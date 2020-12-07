@@ -3,7 +3,7 @@
 ### Limit's
 
 | Cause | Action |
-| :----: | :----: | :----: |
+| :----: | :----: |
 | No-Zone | there is no such thing |
 | Penalty for letting a person without license drive | vehicle is impounded |
 | Consent for extra testing if | if asked by law enforcement |
@@ -30,7 +30,7 @@
 ### Parking near curb<br/>
 
 | Parking style | Rule |
-| :----: | :----: | :----: |
+| :----: | :----: |
 | level street | 18 inches of the curb |
 | Uphill | turn front wheels away from the curb; right; away from the street |
 | Downhill | turn front wheels toward the curb |
